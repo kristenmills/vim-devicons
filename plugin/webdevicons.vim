@@ -315,6 +315,7 @@ function! s:setDictionaries()
         \ 'node_modules'                     : '',
         \ 'react.jsx'                        : '',
         \ 'procfile'                         : '',
+        \ 'dockerfile'                       : '',
         \}
 
   let s:file_node_pattern_matches = {
